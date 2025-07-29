@@ -1,12 +1,13 @@
-import {Button} from './components/ui/button.tsx';
+import { BrowserRouter } from 'react-router-dom';
 import './index.css';
 
 function App() {
 
   return (
     <>
-      
-      
+    <BrowserRouter>
+    
+    </BrowserRouter>
     </>
   )
 }
